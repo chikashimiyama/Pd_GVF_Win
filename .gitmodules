@@ -1,0 +1,7 @@
+[submodule "flext"]
+	path = flext
+	url = https://github.com/grrrr/flext.git
+
+[submodule "libs/ofxGVF"]
+	path = libs/ofxGVF
+	url = https://github.com/bcaramiaux/ofxGVF.git

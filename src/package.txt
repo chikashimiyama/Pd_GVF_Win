@@ -1,0 +1,3 @@
+NAME=gvf
+SRCDIR=. 
+SRCS=main.cpp  ../libs/ofxGVF/GVFlib/GVF.cpp
