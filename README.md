@@ -2,7 +2,7 @@
 ## GVF Pd object for windows
 A pure data external object of GVF (Gesture Variation Follower)
 
-![](img/patch_new.png)
+![](img/gvf.png)
 
 - Developed by [Dr. Chikashi Miyama](http://chikashi.net)
 - based on the [GVF algorithm](https://github.com/bcaramiaux/ofxGVF) by [Baptiste Caramiaux](http://www.baptistecaramiaux.com/), using [flext](https://github.com/grrrr/flext) by [Thomas Grill](https://grrrr.org/) .
